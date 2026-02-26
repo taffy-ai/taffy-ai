@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Taf+Huque;Backend+Engineering;System+Architecture;Building+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Backend+Engineering;System+Architecture;Building+Scalable+Systems" />
 </h1>
 
 <p align="center">
